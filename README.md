@@ -4,7 +4,7 @@
 Intrusion detection plays a crucial role in maintaining network security by identifying malicious activities. The objective of this project is to apply machine learning techniques, specifically the Random Forest algorithm, for intrusion detection. By leveraging the NSL-KDD dataset, the aim is to develop a model capable of accurately classifying network traffic as normal or intrusive.
 
 ## Project Overview
-- **Dataset**: NSL-KDD (https://www.kaggle.com/datasets/hassan06/nslkdd/data)
+- **Dataset**: [NSL-KDD](https://www.kaggle.com/datasets/hassan06/nslkdd/data)
 - **Total Columns**: 43
 - **Number of Data Points**: 125,973
 - **Number of Features Used**: 3
