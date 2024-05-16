@@ -143,6 +143,12 @@ The provided explanation outlines the meaning and significance of each hyperpara
 
 In summary, the param_grid dictionary provides a range of values for each hyperparameter, allowing GridSearchCV to systematically search for the optimal combination of hyperparameters that maximizes the Random Forest model's performance for intrusion detection in network security. Each hyperparameter plays a crucial role in controlling the complexity, robustness, and generalization ability of the model, and tuning them appropriately is essential for building an effective and reliable intrusion detection system.
 
+### Libraries used in my code
+- Pandas is used for data manipulation
+- Sklearn for machine learning tasks
+- Matplotlib for plotting
+- Tabulate for tabular representation.
+
 ### Using PCA in the Code
 Principal Component Analysis (PCA) is a powerful technique for dimensionality reduction that transforms the original features into a new set of features, the principal components, which are orthogonal and capture the maximum variance in the data. Here's a detailed explanation of how PCA is being applied to the code, how it changes the working of the code, and what happens to the three attributes (`src_bytes`, `dst_bytes`, `protocol`).
 
