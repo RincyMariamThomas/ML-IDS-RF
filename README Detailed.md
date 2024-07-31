@@ -265,9 +265,12 @@ By applying PCA with `n_components=2`, we transform the original three features 
   - **Training Complexity**: ~5.66 seconds
   - **Running Complexity**: ~0.26 seconds
 
-## Performace Metrics Comparision of KNN, K-Means, Random Forest & Isolation Forest
-Link will be added soon.
-
+## Comparison of KNN, K-Means, Random Forest & Isolation Forest
+- **Random Forest**: [GitHub Repository](https://github.com/RincyMariamThomas/ML-IDS-RF)
+- **Isolation Forest**: [GitHub Repository](https://github.com/AyaanJahanzebAhmed/network_security_project)
+- **KNN**: [GitHub Repository](https://github.com/akshaygk20/IDS-using-KNN)
+- **K-Means**: [GitHub Repository](https://github.com/swethabotta/IDS_Using_KMEANS)
+  
 ## Potential Improvements
 - **Feature Engineering**:
   - Explore additional or engineered features to enhance model performance.
