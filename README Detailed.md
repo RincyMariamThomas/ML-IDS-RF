@@ -58,7 +58,7 @@ Intrusion detection plays a crucial role in maintaining network security by iden
 I ran a code [Feature Importance.py](https://github.com/RincyMariamThomas/ML-IDS-RF/blob/main/Code/Feature%20Importance.py) to plot a "Feature Importance graph". Below is the output. 
 ![Feature Importance Plot](https://github.com/RincyMariamThomas/ML-IDS-RF/blob/main/Output/RF%20Feature%20Importance/Feature%20Importance.png)
 
-I chose the following attributes which work well with other algorithms([KNN](https://github.com/akshaygk20/IDS-using-KNN), K-Means & [Isolation Forest](https://github.com/AyaanJahanzebAhmed/network_security_project)) and are important features.
+I chose the following attributes which work well with other algorithms([KNN](https://github.com/akshaygk20/IDS-using-KNN), [K-Means](https://github.com/swethabotta/IDS_Using_KMEANS) & [Isolation Forest](https://github.com/AyaanJahanzebAhmed/network_security_project)) and are important features.
 - **Features**:
   - `src_bytes`: Amount of data sent from the source to the destination.
   - `dst_bytes`: Amount of data sent from the destination back to the source.
